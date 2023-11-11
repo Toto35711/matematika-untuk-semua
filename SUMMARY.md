@@ -12,18 +12,17 @@
 
 * [Dari Menghitung Kambing Sampai Piramida](ketika-manusia-mulai-berhitung/dari-menghitung-kambing-sampai-piramida.md)
 
-## Bilangan
+## Bilangan Bagian 1
 
-* [Bilangan Asli](bilangan/bilangan-asli.md)
-* [Bilangan Bulat](bilangan/bilangan-bulat.md)
-* [Bilangan Rasional](bilangan/bilangan-rasional.md)
-* [Bilangan Riil](bilangan/bilangan-riil.md)
+* [Bilangan Asli](bilangan-bagian-1/bilangan-asli.md)
+* [Bilangan Bulat](bilangan-bagian-1/bilangan-bulat.md)
+* [Bilangan Rasional](bilangan-bagian-1/bilangan-rasional.md)
+* [Bilangan Riil](bilangan-bagian-1/bilangan-riil.md)
 
-## GEOMETRI: MENGHITUNG PAJAK TANAH
+## GEOMETRI BAGIAN 1: MENGHITUNG PAJAK TANAH
 
-* [Luas](geometri-menghitung-pajak-tanah/luas.md)
-* [Segitiga](geometri-menghitung-pajak-tanah/segitiga.md)
-* [Lingkaran dan Pi](geometri-menghitung-pajak-tanah/lingkaran-dan-pi.md)
+* [Luas](geometri-bagian-1-menghitung-pajak-tanah/luas.md)
+* [Segitiga](geometri-bagian-1-menghitung-pajak-tanah/segitiga.md)
 
 ## RUMUS SEBAGAI MODEL MATEMATIKA
 
